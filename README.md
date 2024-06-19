@@ -27,7 +27,7 @@ The presentation is structured as follows:
 
 ## How to Use This Repository
 
-- The presentation slides are available in the file `Health IT Summit Presentation.pptx`.
+- The presentation slides are available in the file `Health IT Summit Presentation.pdf`.
 - You can download and view the presentation using any compatible software such as Microsoft PowerPoint or Google Slides.
 
 ## References
