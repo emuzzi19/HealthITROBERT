@@ -6,7 +6,7 @@ This repository contains the presentation files for the AI-Expedited ASPR Grants
 
 ## Project Team
 
-- Joshua Chambers (Washington & Jefferson College)
+- Joshua Chambers 
 - Pooja Jakkampudi
 - Antonia Meier
 - Elijah Muzzi
